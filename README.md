@@ -26,6 +26,11 @@
 밴'S 노트는 이 세 가지를 중심으로 만들어졌습니다.
 
 ## 기능
+<img src="marketing/promo/og-share-1200x630.png" width="1250" alt="캘린더" />
+<img src="marketing/promo/ig-square-main.png" width="600" alt="메인 이미지" />
+<img src="marketing/promo/feature-card-studio.png" width="600" alt="합주실" />
+<img src="marketing/promo/feature-card-schedule.png" width="600" alt="일정" />
+<img src="marketing/promo/feature-card-calendar.png" width="600" alt="캘린더" />
 
 |  | 기능 | 설명 |
 |---|---|---|
