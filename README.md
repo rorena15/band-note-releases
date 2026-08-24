@@ -32,12 +32,16 @@
 
 <table>
 <tr>
-<td><img src="marketing/promo/ig-square-main.png" width="260" alt="메인 이미지" /></td>
-<td><img src="marketing/promo/feature-card-schedule.png" width="260" alt="일정 투표" /></td>
+<td><img src="marketing/promo/feature-card-schedule.png" width="220" alt="일정 투표" /></td>
+<td><img src="marketing/promo/feature-card-settlement.png" width="220" alt="정산" /></td>
+<td><img src="marketing/promo/feature-card-studio.png" width="220" alt="합주실 찾기" /></td>
+<td><img src="marketing/promo/feature-card-calendar.png" width="220" alt="캘린더 연동" /></td>
 </tr>
 <tr>
-<td><img src="marketing/promo/feature-card-studio.png" width="260" alt="합주실 찾기" /></td>
-<td><img src="marketing/promo/feature-card-calendar.png" width="260" alt="캘린더 연동" /></td>
+<td><img src="marketing/promo/feature-card-stats.png" width="220" alt="밴드 활동 통계" /></td>
+<td><img src="marketing/promo/feature-card-portfolio.png" width="220" alt="밴드 포트폴리오" /></td>
+<td><img src="marketing/promo/feature-card-crossband.png" width="220" alt="크로스밴드 뷰" /></td>
+<td><img src="marketing/promo/ig-square-main.png" width="220" alt="밴'S 노트" /></td>
 </tr>
 </table>
 </div>
@@ -58,9 +62,12 @@
 ## 화면
 
 <div align="center">
-<img src="marketing/appshots/01-home-songs.png" width="240" alt="곡 리스트" />
-<img src="marketing/appshots/02-schedule-poll.png" width="240" alt="일정 투표" />
-<img src="marketing/appshots/03-settlement.png" width="240" alt="정산" />
+<img src="marketing/appshots/01-home-songs.png" width="200" alt="곡 리스트" />
+<img src="marketing/appshots/02-schedule-poll.png" width="200" alt="일정 투표" />
+<img src="marketing/appshots/03-settlement.png" width="200" alt="정산" />
+<img src="marketing/appshots/04-studios.png" width="200" alt="합주실 찾기" />
+<img src="marketing/appshots/05-stats.png" width="200" alt="밴드 활동 통계" />
+<img src="marketing/appshots/06-cross-band.png" width="200" alt="크로스밴드 뷰" />
 </div>
 
 ## 설치 방법
